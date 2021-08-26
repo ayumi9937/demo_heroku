@@ -15,7 +15,7 @@ public class DemoHerokuApplication {
 
 	@GetMapping
 	public String getName() {
-		return "iBlurBlur";
+		return "iBlurBlur cat lover";
 	}
 
 }
